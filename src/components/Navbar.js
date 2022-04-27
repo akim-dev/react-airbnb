@@ -3,7 +3,7 @@ import React from 'react';
 function Navbar() {
   return (
     <nav>
-      <img src="" />
+      <img src="../images/airbnb.png" />
     </nav>
   );
 }
